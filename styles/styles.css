@@ -1,0 +1,21 @@
+th, td {
+
+    color: white;
+    padding: 0.5rem;
+    border: 1px solid;
+    
+}
+
+table{
+    background-color: violet;
+    border-collapse: collapse;
+    border: 1px solid;
+    border-color: black;
+    
+}
+h1{
+    color: blueviolet;
+}
+thead{
+    background-color: magenta;
+}
