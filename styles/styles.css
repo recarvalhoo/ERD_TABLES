@@ -19,3 +19,7 @@ h1{
 thead{
     background-color: magenta;
 }
+
+.key {
+    width: 20px;
+}
